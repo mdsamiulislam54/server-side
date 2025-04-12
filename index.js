@@ -15,7 +15,7 @@ app.use(bodyParser.json())
 app.use(express.json());
 // ব্যাকেন্ডে (server.js/app.js)
 app.use(cors({
-  origin: ["http://localhost:5173"],
+  origin: ["http://localhost:5173",'https://dailymart.up.railway.app/'],
   methods: ["GET", "POST", "PUT", "DELETE"], 
   credentials: true
 })); // Call cors as a function 
@@ -36,6 +36,7 @@ mongoose
   
 // Middleware setup
 app.use(errorHandler);
+
 // Server listen
 app.listen(process.env.PORT || 5000, () => {
   console.log("App is running on port 5000");
