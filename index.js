@@ -18,7 +18,7 @@ app.use(cors({
   origin: ["https://dailymartstore-59c72b-s-dev.netlify.app",'https://dailymart.up.railway.app'],
   methods: ["GET", "POST", "PUT", "DELETE"], 
   credentials: true
-})); // Call cors as a function 
+})); 
 
 // Database connection
 mongoose
