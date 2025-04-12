@@ -1,0 +1,1482 @@
+[
+  {
+    "title": "Men's Casual Shirt",
+    "pID": 1,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.8",
+    "brand": "Brand A",
+    "price": "$45.00",
+    "discountPrice": "$35.00",
+    "img": "https://m.media-amazon.com/images/I/61cIUJTfJCL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/81TSrTXy8TL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/818b3hI8d9L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/61OrYk7MnlL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Blue", "White", "Black"],
+    "description": "This stylish casual shirt is perfect for any occasion. Made from high-quality fabric, it offers both comfort and durability. The slim fit design ensures a modern look.",
+    "productDetails": {
+      "title": "Men's Casual Shirt - Premium Quality",
+      "features": [
+        "Made from 100% cotton",
+        "Slim fit design",
+        "Available in multiple colors",
+        "Machine washable",
+        "Wrinkle-resistant fabric"
+      ]
+    }
+  },
+  {
+    "title": "Women's Summer Dress",
+    "pID": 2,
+    "category": "Women's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.5",
+    "brand": "Brand B",
+    "price": "$60.00",
+    "discountPrice": "$50.00",
+    "img": "https://m.media-amazon.com/images/I/71oDY5rmkhL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/71dn+reTqGL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/71CKPC-E0CL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/61PEij+E1GL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Red", "Yellow", "Pink"],
+    "description": "This summer dress is lightweight and perfect for sunny days. It features a floral pattern and a comfortable fit, making it ideal for casual outings.",
+    "productDetails": {
+      "title": "Women's Summer Dress - Floral Pattern",
+      "features": [
+        "Lightweight and breathable fabric",
+        "Floral pattern design",
+        "Available in vibrant colors",
+        "Easy to care for",
+        "Perfect for casual outings"
+      ]
+    }
+  },
+  {
+    "title": "Men's Leather Jacket",
+    "pID": 3,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.9",
+    "brand": "Brand C",
+    "price": "$120.00",
+    "discountPrice": "$100.00",
+    "img": "https://m.media-amazon.com/images/I/61ZVylO0-UL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/81iOSL3bIfL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/81IZvuCOj2L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/71E7c09iTdL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Black", "Brown"],
+    "description": "This premium leather jacket is a must-have for any wardrobe. It offers a sleek design and is made from genuine leather for long-lasting durability.",
+    "productDetails": {
+      "title": "Men's Leather Jacket - Genuine Leather",
+      "features": [
+        "Made from genuine leather",
+        "Sleek and stylish design",
+        "Available in classic colors",
+        "Durable and long-lasting",
+        "Perfect for all seasons"
+      ]
+    }
+  },
+  {
+    "title": "men's Handbag",
+    "pID": 4,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.6",
+    "brand": "Brand D",
+    "price": "$80.00",
+    "discountPrice": "$65.00",
+    "img": "https://m.media-amazon.com/images/I/71HavGrW1nL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/81+1jn80dCL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/81EPTX8VhwL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/81oN+WzcKRL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Beige", "Black", "Pink"],
+    "description": "This elegant handbag is perfect for everyday use. It features multiple compartments and is made from high-quality materials for durability.",
+    "productDetails": {
+      "title": "Women's Handbag - Elegant Design",
+      "features": [
+        "Multiple compartments",
+        "High-quality materials",
+        "Available in stylish colors",
+        "Comfortable to carry",
+        "Perfect for everyday use"
+      ]
+    }
+  },
+  {
+    "title": "Men's Running Shoes",
+    "pID": 5,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.7",
+    "brand": "Brand E",
+    "price": "$90.00",
+    "discountPrice": "$75.00",
+    "img": "https://m.media-amazon.com/images/I/61tAQfMIiJL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/61MuX5kBftL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/71bJXbMafFL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/51W8GBSclSL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Blue", "Black", "Gray"],
+    "description": "These running shoes are designed for maximum comfort and performance. They feature a breathable design and excellent grip for all types of terrain.",
+    "productDetails": {
+      "title": "Men's Running Shoes - High Performance",
+      "features": [
+        "Breathable design",
+        "Excellent grip",
+        "Lightweight and comfortable",
+        "Available in multiple colors",
+        "Perfect for running and training"
+      ]
+    }
+  },
+  {
+    "title": "men's Sneakers",
+    "pID": 6,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.4",
+    "brand": "Brand F",
+    "price": "$85.00",
+    "discountPrice": "$70.00",
+    "img": "https://m.media-amazon.com/images/I/61V9zh0NZBL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/71Z8EbtTUeL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/71lG78RvwhL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/51ZvkBXnLhL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["White", "Pink", "Gray"],
+    "description": "These sneakers are perfect for casual wear and light exercise. They offer a comfortable fit and a stylish design that complements any outfit.",
+    "productDetails": {
+      "title": "Women's Sneakers - Casual and Comfortable",
+      "features": [
+        "Comfortable fit",
+        "Stylish design",
+        "Available in trendy colors",
+        "Lightweight and breathable",
+        "Perfect for casual wear"
+      ]
+    }
+  },
+  {
+    "title": "Men's Watch",
+    "pID": 7,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.8",
+    "brand": "Brand G",
+    "price": "$150.00",
+    "discountPrice": "$130.00",
+    "img": "https://m.media-amazon.com/images/I/713EyiqlnTL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/61vAwF6wH0L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/710pymwnl5L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/91KRgOuTFDL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Silver", "Black", "Gold"],
+    "description": "This premium watch is a perfect blend of style and functionality. It features a durable stainless steel strap and a water-resistant design.",
+    "productDetails": {
+      "title": "Men's Watch - Premium Design",
+      "features": [
+        "Stainless steel strap",
+        "Water-resistant",
+        "Available in classic colors",
+        "Durable and stylish",
+        "Perfect for formal and casual wear"
+      ]
+    }
+  },
+  {
+    "title": "men's Earrings",
+    "pID": 8,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.5",
+    "brand": "Brand H",
+    "price": "$40.00",
+    "discountPrice": "$30.00",
+    "img": "https://m.media-amazon.com/images/I/81z52XQZ0IL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/71boVkzCLeL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/91LVYEEaoJL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/81IePY3g4GL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Gold", "Silver", "Rose Gold"],
+    "description": "These elegant earrings are perfect for adding a touch of sophistication to any outfit. They are made from high-quality materials and are lightweight for all-day comfort.",
+    "productDetails": {
+      "title": "Women's Earrings - Elegant and Lightweight",
+      "features": [
+        "High-quality materials",
+        "Lightweight design",
+        "Available in stylish colors",
+        "Perfect for all occasions",
+        "Comfortable to wear"
+      ]
+    }
+  },
+  {
+    "title": "Men's Backpack",
+    "pID": 9,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.6",
+    "brand": "Brand I",
+    "price": "$70.00",
+    "discountPrice": "$55.00",
+    "img": "https://m.media-amazon.com/images/I/81viDwch+yL._AC_UY327_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/81XVfi00LML._AC_UY327_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/71nucvZtNBL._AC_UY327_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/810gZYpPz9L._AC_UY327_FMwebp_QL65_.jpg",
+    "color": ["Black", "Gray", "Blue"],
+    "description": "This durable backpack is perfect for daily use or travel. It features multiple compartments and is made from water-resistant materials.",
+    "productDetails": {
+      "title": "Men's Backpack - Durable and Functional",
+      "features": [
+        "Multiple compartments",
+        "Water-resistant materials",
+        "Available in versatile colors",
+        "Comfortable to carry",
+        "Perfect for daily use"
+      ]
+    }
+  },
+  {
+    "title": "men's Sunglasses",
+    "pID": 10,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.5",
+    "brand": "Brand J",
+    "price": "$50.00",
+    "discountPrice": "$40.00",
+    "img": "https://m.media-amazon.com/images/I/51f00ZTK+ML._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/61kNClgvSyL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/51fRU5YJw4L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/61O80tdYOFL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Black", "Brown", "Tortoise"],
+    "description": "These stylish sunglasses offer 100% UV protection and are perfect for sunny days. They feature a lightweight design and a trendy frame.",
+    "productDetails": {
+      "title": "Women's Sunglasses - UV Protection",
+      "features": [
+        "100% UV protection",
+        "Lightweight design",
+        "Available in trendy colors",
+        "Comfortable to wear",
+        "Perfect for sunny days"
+      ]
+    }
+  },
+  {
+    "title": "Men's Formal Shoes",
+    "pID": 11,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.7",
+    "brand": "Brand K",
+    "price": "$110.00",
+    "discountPrice": "$90.00",
+    "img": "https://m.media-amazon.com/images/I/61iFSPKli9L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/71+spCGv5LL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/71kIx56R0JL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/81zqrHuWkZL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Black", "Brown"],
+    "description": "These formal shoes are perfect for business meetings or special occasions. They are made from premium leather and offer a polished look.",
+    "productDetails": {
+      "title": "Men's Formal Shoes - Premium Leather",
+      "features": [
+        "Made from premium leather",
+        "Polished and elegant design",
+        "Available in classic colors",
+        "Comfortable to wear",
+        "Perfect for formal occasions"
+      ]
+    }
+  },
+  {
+    "title": "men's  Punjabi",
+    "pID": 12,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.4",
+    "brand": "Brand L",
+    "price": "$30.00",
+    "discountPrice": "$25.00",
+    "img": "https://m.media-amazon.com/images/I/61UVKYykxXL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/619euMjeHJL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/511zpo6601L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/61-ejA8B3DL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Red", "Blue", "Green"],
+    "description": "Design: Mens vintage kaftan thobe robe is feature with banded collar, vertical pleated design, long sleeve with buttoned cuffs, solid color, side split and loose fit style. A classic shukr mix of contemporary and traditional, the mimar shirt is a must-have addition to your wardrobe. Fabric: This mens casual button down henley shirt is made of high-quality cotton linen material, soft, breathable, skin friendly, comfortable and lightweight, make this shirt as versatile as it is easy to wear.",
+    "productDetails": {
+      "title": "Runcati Mens Kaftan Robe Button Down Long Sleeve Cotton Linen Thobe Casual Muslim Gown Henley Shirt",
+      "features": [
+        "Soft and comfortable materials",
+        "Available in vibrant colors",
+        "Perfect for all seasons",
+        "Lightweight and easy to carry",
+        "Adds a pop of color to any outfit"
+      ]
+    }
+  },
+
+  {
+    "title": "Women's Summer Dress",
+    "pID": 13,
+    "category": "Women's Fashion",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.8",
+    "brand": "Brand A",
+    "price": "$60.00",
+    "discountPrice": "$50.00",
+    "img": "https://m.media-amazon.com/images/I/71pvJ03JYhL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/71WpfMs95vL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/61YC42LACYL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/71riBHvdNLL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Red", "Yellow", "Pink"],
+    "description": "This summer dress is lightweight and perfect for sunny days. It features a floral pattern and a comfortable fit, making it ideal for casual outings.",
+    "productDetails": {
+      "title": "Women's Summer Dress - Floral Pattern",
+      "features": [
+        "Lightweight and breathable fabric",
+        "Floral pattern design",
+        "Available in vibrant colors",
+        "Easy to care for",
+        "Perfect for casual outings"
+      ]
+    }
+  },
+  {
+    "title": "Women's Handbag",
+    "pID": 14,
+    "category": "Women's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.6",
+    "brand": "Brand B",
+    "price": "$80.00",
+    "discountPrice": "$65.00",
+    "img": "https://m.media-amazon.com/images/I/71T8EVp49iL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/91gsXRNREML._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/71WKl9c+0ZL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/813VTGNZJ9L._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Beige", "Black", "Pink"],
+    "description": "This elegant handbag is perfect for everyday use. It features multiple compartments and is made from high-quality materials for durability.",
+    "productDetails": {
+      "title": "Women's Handbag - Elegant Design",
+      "features": [
+        "Multiple compartments",
+        "High-quality materials",
+        "Available in stylish colors",
+        "Comfortable to carry",
+        "Perfect for everyday use"
+      ]
+    }
+  },
+  {
+    "title": "Women's Sneakers",
+    "pID": 15,
+    "category": "Women's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.4",
+    "brand": "Brand C",
+    "price": "$85.00",
+    "discountPrice": "$70.00",
+    "img": "https://m.media-amazon.com/images/I/71bY+Vi3MGL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/61Nwp2atijL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/61kcIxnM9pL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/61mqUGLXB3L._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["White", "Pink", "Gray"],
+    "description": "These sneakers are perfect for casual wear and light exercise. They offer a comfortable fit and a stylish design that complements any outfit.",
+    "productDetails": {
+      "title": "Women's Sneakers - Casual and Comfortable",
+      "features": [
+        "Comfortable fit",
+        "Stylish design",
+        "Available in trendy colors",
+        "Lightweight and breathable",
+        "Perfect for casual wear"
+      ]
+    }
+  },
+  {
+    "title": "Women's Earrings",
+    "pID": 16,
+    "category": "Women's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.5",
+    "brand": "Brand D",
+    "price": "$40.00",
+    "discountPrice": "$30.00",
+    "img": "https://m.media-amazon.com/images/I/61mzWUvqlhL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/61LRtSogu4L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/61tLfNMZnpL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/51dV-SJMaOL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Gold", "Silver", "Rose Gold"],
+    "description": "These elegant earrings are perfect for adding a touch of sophistication to any outfit. They are made from high-quality materials and are lightweight for all-day comfort.",
+    "productDetails": {
+      "title": "Women's Earrings - Elegant and Lightweight",
+      "features": [
+        "High-quality materials",
+        "Lightweight design",
+        "Available in stylish colors",
+        "Perfect for all occasions",
+        "Comfortable to wear"
+      ]
+    }
+  },
+  {
+    "title": "Women's Sunglasses",
+    "pID": 17,
+    "category": "Women's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.5",
+    "brand": "Brand E",
+    "price": "$50.00",
+    "discountPrice": "$40.00",
+    "img": "https://m.media-amazon.com/images/I/71p0MWgd3xL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/51zqXr1fRsL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/71n+jmJc+CL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/6171AJc-sGL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Black", "Brown", "Tortoise"],
+    "description": "These stylish sunglasses offer 100% UV protection and are perfect for sunny days. They feature a lightweight design and a trendy frame.",
+    "productDetails": {
+      "title": "Women's Sunglasses - UV Protection",
+      "features": [
+        "100% UV protection",
+        "Lightweight design",
+        "Available in trendy colors",
+        "Comfortable to wear",
+        "Perfect for sunny days"
+      ]
+    }
+  },
+  {
+    "title": "Women's Scarf",
+    "pID": 18,
+    "category": "Women's Accessories",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.4",
+    "brand": "Brand F",
+    "price": "$30.00",
+    "discountPrice": "$25.00",
+    "img": "https://m.media-amazon.com/images/I/91x1ESJXJfL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/818b8BCW+ML._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/61CLn7OMQkL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/61Uh8CYEbEL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Red", "Blue", "Green"],
+    "description": "This stylish scarf is perfect for adding a pop of color to any outfit. It is made from soft and comfortable materials, making it ideal for all seasons.",
+    "productDetails": {
+      "title": "Women's Scarf - Soft and Stylish",
+      "features": [
+        "Soft and comfortable materials",
+        "Available in vibrant colors",
+        "Perfect for all seasons",
+        "Lightweight and easy to carry",
+        "Adds a pop of color to any outfit"
+      ]
+    }
+  },
+  {
+    "title": "Women's Winter Coat",
+    "pID": 19,
+    "category": "Women's Fashion",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.7",
+    "brand": "Brand G",
+    "price": "$120.00",
+    "discountPrice": "$100.00",
+    "img": "https://m.media-amazon.com/images/I/613jcgU+xEL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/71Z72TU0xSL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/71co+HmXdjL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/71q88UCL5UL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Black", "Gray", "Navy"],
+    "description": "This winter coat is perfect for staying warm during the cold months. It features a stylish design and is made from high-quality materials for durability.",
+    "productDetails": {
+      "title": "Women's Winter Coat - Warm and Stylish",
+      "features": [
+        "High-quality materials",
+        "Stylish design",
+        "Available in classic colors",
+        "Perfect for winter",
+        "Durable and long-lasting"
+      ]
+    }
+  },
+  {
+    "title": "Women's Jeans",
+    "pID": 20,
+    "category": "Women's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.5",
+    "brand": "Brand H",
+    "price": "$70.00",
+    "discountPrice": "$55.00",
+    "img": "https://m.media-amazon.com/images/I/61-vP6ebPbL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/517i5k+4MpL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/71sOTdQOU0L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/61u0LJPVCNL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Blue", "Black", "Gray"],
+    "description": "These jeans are perfect for everyday wear. They offer a comfortable fit and a stylish design that complements any outfit.",
+    "productDetails": {
+      "title": "Women's Jeans - Comfortable and Stylish",
+      "features": [
+        "Comfortable fit",
+        "Stylish design",
+        "Available in versatile colors",
+        "Durable and long-lasting",
+        "Perfect for everyday wear"
+      ]
+    }
+  },
+
+  {
+    "title": "Kid's T-Shirt",
+    "pID": 21,
+    "category": "Kid's Fashion",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.8",
+    "brand": "Brand A",
+    "price": "$20.00",
+    "discountPrice": "$15.00",
+    "img": "https://m.media-amazon.com/images/I/81chfExIA6L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/71QXqG1qUkL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/71danqNQEnL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/71s5cW9Yk-L._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Blue", "Red", "Yellow"],
+    "description": "This comfortable T-shirt is perfect for kids, offering a soft and breathable fabric that ensures all-day comfort. Designed with vibrant colors and a durable material, it is ideal for everyday wear. The T-shirt is made from 100% cotton, making it gentle on your child's skin. It is also machine washable, ensuring easy maintenance. Whether your child is playing at home or exploring the outdoors, this T-shirt provides both style and comfort. Available in a variety of colors, it is a versatile addition to any kid's wardrobe.",
+    "productDetails": {
+      "title": "Kid's T-Shirt - Soft and Comfortable",
+      "features": [
+        "Made from 100% cotton",
+        "Soft and breathable fabric",
+        "Available in vibrant colors",
+        "Machine washable",
+        "Perfect for everyday wear"
+      ]
+    }
+  },
+  {
+    "title": "Kid's Jeans",
+    "pID": 22,
+    "category": "Kid's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.5",
+    "brand": "Brand B",
+    "price": "$35.00",
+    "discountPrice": "$28.00",
+    "img": "https://m.media-amazon.com/images/I/81IRLK8FTzL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/81+a+0L5a5L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/A1b-2-6mm3L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/91Vmfy9PoGL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Blue", "Black"],
+    "description": "These durable jeans are perfect for active kids, offering a comfortable fit and high-quality denim that ensures long-lasting use. Designed with a classic style, they are suitable for both casual and formal occasions. The jeans feature reinforced stitching and sturdy fabric, making them ideal for rough and tumble play. Available in classic colors like blue and black, they are a versatile addition to any kid's wardrobe. Whether your child is running, jumping, or playing, these jeans provide both comfort and durability.",
+    "productDetails": {
+      "title": "Kid's Jeans - Durable and Comfortable",
+      "features": [
+        "Made from high-quality denim",
+        "Comfortable fit",
+        "Available in classic colors",
+        "Durable and long-lasting",
+        "Perfect for everyday wear"
+      ]
+    }
+  },
+  {
+    "title": "Kid's Hoodie",
+    "pID": 23,
+    "category": "Kid's Fashion",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.7",
+    "brand": "Brand C",
+    "price": "$40.00",
+    "discountPrice": "$32.00",
+    "img": "https://m.media-amazon.com/images/I/51Ud5w9uRIL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/81GoBj8k9gL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/51BVcA8VaiL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/81X3fFAxAVL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Gray", "Navy", "Pink"],
+    "description": "This cozy hoodie is perfect for keeping kids warm during cooler weather. It features a soft inner lining and a stylish design that kids will love. Made from high-quality materials, it is both durable and comfortable. The hoodie is available in trendy colors like gray, navy, and pink, making it a fashionable choice for any season. Whether your child is playing outside or lounging at home, this hoodie provides both warmth and style. It is also machine washable, ensuring easy care for busy parents.",
+    "productDetails": {
+      "title": "Kid's Hoodie - Cozy and Stylish",
+      "features": [
+        "Soft inner lining",
+        "Stylish design",
+        "Available in trendy colors",
+        "Perfect for cooler weather",
+        "Machine washable"
+      ]
+    }
+  },
+  {
+    "title": "Kid's Sneakers",
+    "pID": 24,
+    "category": "Kid's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.6",
+    "brand": "Brand D",
+    "price": "$45.00",
+    "discountPrice": "$38.00",
+    "img": "https://m.media-amazon.com/images/I/71IQB9r6bYL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/71GPpyzxuaL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/71tAh7qqLkL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/71bpOPH7x9L._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Black", "White", "Blue"],
+    "description": "These sneakers are perfect for active kids, offering a comfortable fit and a durable design that can withstand daily wear and tear. Designed with a lightweight sole and breathable material, they provide excellent support for running, jumping, and playing. The sneakers are available in versatile colors like black, white, and blue, making them a great match for any outfit. Whether your child is at school or playing outdoors, these sneakers ensure both comfort and style. They are also easy to clean, making them a practical choice for busy parents.",
+    "productDetails": {
+      "title": "Kid's Sneakers - Comfortable and Durable",
+      "features": [
+        "Comfortable fit",
+        "Durable design",
+        "Available in versatile colors",
+        "Perfect for active kids",
+        "Easy to clean"
+      ]
+    }
+  },
+  {
+    "title": "Kid's Jacket",
+    "pID": 25,
+    "category": "Kid's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.5",
+    "brand": "Brand E",
+    "price": "$50.00",
+    "discountPrice": "$42.00",
+    "img": "https://m.media-amazon.com/images/I/61zl9BD2WTL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/61zbuOCmqUL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/61viW3S3CjL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/817KbBW-G2L._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Red", "Black", "Green"],
+    "description": "This jacket is perfect for keeping kids warm during the winter. It features a water-resistant outer layer and a cozy inner lining that provides maximum comfort. Designed with a stylish look, it is available in vibrant colors like red, black, and green. The jacket is perfect for outdoor activities, ensuring your child stays warm and dry in cold weather. Whether your child is playing in the snow or walking to school, this jacket offers both functionality and style. It is also durable and long-lasting, making it a great investment for the winter season.",
+    "productDetails": {
+      "title": "Kid's Jacket - Warm and Water-Resistant",
+      "features": [
+        "Water-resistant outer layer",
+        "Cozy inner lining",
+        "Available in vibrant colors",
+        "Perfect for winter",
+        "Durable and long-lasting"
+      ]
+    }
+  },
+  {
+    "title": "Kid's Backpack",
+    "pID": 26,
+    "category": "Kid's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.4",
+    "brand": "Brand F",
+    "price": "$30.00",
+    "discountPrice": "$25.00",
+    "img": "https://m.media-amazon.com/images/I/61lhNZ8G8dL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/61ctD0qzE8L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/A1nEogLPbCL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/81+jFtQ3VXL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Blue", "Pink", "Gray"],
+    "description": "This backpack is perfect for school or travel, offering multiple compartments and durable materials for long-lasting use. Designed with a comfortable fit and adjustable straps, it ensures your child can carry their belongings with ease. The backpack is available in fun colors like blue, pink, and gray, making it a stylish choice for kids. Whether your child is heading to school or going on a family trip, this backpack provides both functionality and style. It is also easy to clean, making it a practical choice for busy parents.",
+    "productDetails": {
+      "title": "Kid's Backpack - Durable and Functional",
+      "features": [
+        "Multiple compartments",
+        "Durable materials",
+        "Available in fun colors",
+        "Perfect for school or travel",
+        "Comfortable to carry"
+      ]
+    }
+  },
+  {
+    "title": "Smartphone X1 Pro",
+    "pID": 36,
+    "category": "Cell Phone",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.8",
+    "brand": "TechBrand",
+    "price": "$599.00",
+    "discountPrice": "$549.00",
+    "img": "https://img.drz.lazcdn.com/static/bd/p/57cf38e1b6da245e8573ba7b2703194a.jpg_400x400q75.avif",
+    "subimage1": "https://img.drz.lazcdn.com/static/bd/p/57cf38e1b6da245e8573ba7b2703194a.jpg_400x400q75.avif",
+    "subimage2": "https://img.drz.lazcdn.com/static/bd/p/57cf38e1b6da245e8573ba7b2703194a.jpg_400x400q75.avif",
+    "subimage3": "https://img.drz.lazcdn.com/static/bd/p/57cf38e1b6da245e8573ba7b2703194a.jpg_400x400q75.avif",
+    "color": ["Black", "Silver", "Blue"],
+    "description": "The Smartphone X1 Pro is a cutting-edge device designed for those who demand the best in mobile technology. Featuring a 6.7-inch Super AMOLED display, it offers stunning visuals with vibrant colors and deep contrasts. Powered by the latest Snapdragon 888 processor, it ensures smooth performance even during the most demanding tasks.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "6.7-inch Super AMOLED Display",
+        "Snapdragon 888 Processor",
+        "108MP Triple Camera Setup",
+        "5000mAh Battery with 65W Fast Charging",
+        "5G Connectivity"
+      ]
+    }
+  },
+  {
+    "title": "Smartphone X2 Pro",
+    "pID": 37,
+    "category": "Cell Phone",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.5",
+    "brand": "TechBrand",
+    "price": "$499.00",
+    "discountPrice": "$449.00",
+    "img": "https://img.drz.lazcdn.com/static/bd/p/a9b1d96f186a04fb3bb979b2719c6b9c.jpg_400x400q75.avif",
+    "subimage1": "https://img.drz.lazcdn.com/static/bd/p/a9b1d96f186a04fb3bb979b2719c6b9c.jpg_400x400q75.avif",
+    "subimage2": "https://img.drz.lazcdn.com/static/bd/p/a9b1d96f186a04fb3bb979b2719c6b9c.jpg_400x400q75.avif",
+    "subimage3": "https://img.drz.lazcdn.com/static/bd/p/a9b1d96f186a04fb3bb979b2719c6b9c.jpg_400x400q75.avif",
+    "color": ["Black", "Gold"],
+    "description": "The Smartphone X2 Pro is a powerful device with a 6.5-inch AMOLED display and a Snapdragon 870 processor. It features a 64MP triple camera setup and a 4500mAh battery with 30W fast charging.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "6.5-inch AMOLED Display",
+        "Snapdragon 870 Processor",
+        "64MP Triple Camera Setup",
+        "4500mAh Battery with 30W Fast Charging",
+        "5G Connectivity"
+      ]
+    }
+  },
+  {
+    "title": "Smartphone X3 Pro",
+    "pID": 38,
+    "category": "Cell Phone",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.9",
+    "brand": "TechBrand",
+    "price": "$699.00",
+    "discountPrice": "$649.00",
+    "img": "https://img.drz.lazcdn.com/static/bd/p/0ce5539a799cb55fcaf784f002077060.jpg_400x400q75.avif",
+    "subimage1": "https://img.drz.lazcdn.com/static/bd/p/f2ef91a1619757bbabddfd3f3c1052a3.jpg_400x400q75.avif",
+    "subimage2": "https://img.drz.lazcdn.com/static/bd/p/0ce5539a799cb55fcaf784f002077060.jpg_400x400q75.avif",
+    "subimage3": "https://img.drz.lazcdn.com/static/bd/p/f2ef91a1619757bbabddfd3f3c1052a3.jpg_400x400q75.avif",
+    "color": ["Black", "Silver"],
+    "description": "The Smartphone X3 Pro is a premium device with a 6.8-inch Dynamic AMOLED display and a Snapdragon 8 Gen 1 processor. It boasts a 108MP quad-camera setup and a 5000mAh battery with 65W fast charging.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "6.8-inch Dynamic AMOLED Display",
+        "Snapdragon 8 Gen 1 Processor",
+        "108MP Quad Camera Setup",
+        "5000mAh Battery with 65W Fast Charging",
+        "5G Connectivity"
+      ]
+    }
+  },
+  {
+    "title": "Smartphone X4 Pro",
+    "pID": 39,
+    "category": "Cell Phone",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.6",
+    "brand": "TechBrand",
+    "price": "$399.00",
+    "discountPrice": "$349.00",
+    "img": "https://img.drz.lazcdn.com/static/bd/p/22370864e68b39de9ddb1117f8ec5a3f.jpg_400x400q75.avif",
+    "subimage1": "https://img.drz.lazcdn.com/static/bd/p/558c81812b0296816b5932690a23e486.jpg_400x400q75.avif",
+    "subimage2": "https://img.drz.lazcdn.com/static/bd/p/22370864e68b39de9ddb1117f8ec5a3f.jpg_400x400q75.avif",
+    "subimage3": "https://img.drz.lazcdn.com/static/bd/p/22370864e68b39de9ddb1117f8ec5a3f.jpg_400x400q75.avif",
+    "color": ["Blue", "White"],
+    "description": "The Smartphone X4 Pro is a budget-friendly device with a 6.4-inch Super AMOLED display and a Snapdragon 778G processor. It features a 48MP triple camera setup and a 4500mAh battery with 25W fast charging.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "6.4-inch Super AMOLED Display",
+        "Snapdragon 778G Processor",
+        "48MP Triple Camera Setup",
+        "4500mAh Battery with 25W Fast Charging",
+        "5G Connectivity"
+      ]
+    }
+  },
+  {
+    "title": "Smartphone X5 Pro",
+    "pID": 40,
+    "category": "Cell Phone",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.7",
+    "brand": "TechBrand",
+    "price": "$799.00",
+    "discountPrice": "$749.00",
+    "img": "https://img.drz.lazcdn.com/static/bd/p/2898555faf45d7c61803cfc514ebcc95.jpg_400x400q75.avif",
+    "subimage1": "https://img.drz.lazcdn.com/static/bd/p/d430a5de6ef3843c778e03189f98c3ab.jpg_400x400q75.avif",
+    "subimage2": "https://img.drz.lazcdn.com/static/bd/p/42ac6548f7028aee613941ce2978f53b.jpg_400x400q75.avif",
+    "subimage3": "https://img.drz.lazcdn.com/static/bd/p/18562ebe821363f13841362bef571c9a.jpg_400x400q75.avif",
+    "color": ["Black", "Green"],
+    "description": "The Smartphone X5 Pro is a flagship device with a 6.9-inch Dynamic AMOLED 2X display and a Snapdragon 8 Gen 2 processor. It features a 200MP quad-camera setup and a 5000mAh battery with 100W fast charging.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "6.9-inch Dynamic AMOLED 2X Display",
+        "Snapdragon 8 Gen 2 Processor",
+        "200MP Quad Camera Setup",
+        "5000mAh Battery with 100W Fast Charging",
+        "5G Connectivity"
+      ]
+    }
+  },
+  {
+    "title": "Smartphone X6 Pro",
+    "pID": 41,
+    "category": "Cell Phone",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.4",
+    "brand": "TechBrand",
+    "price": "$299.00",
+    "discountPrice": "$249.00",
+    "img": "https://img.drz.lazcdn.com/static/bd/p/620caad5c9d900b72e4f81bbbc3fddb5.jpg_400x400q75.avif",
+    "subimage1": "https://img.drz.lazcdn.com/static/bd/p/2eba1182ed2d84ab1ed1acda199d31e6.jpg_400x400q75.avif",
+    "subimage2": "https://img.drz.lazcdn.com/collect/sg/p/08a733009780747a38c3b9ffc7ecec6b.jpg_400x400q75.avif",
+    "subimage3": "https://img.drz.lazcdn.com/collect/sg/p/08a733009780747a38c3b9ffc7ecec6b.jpg_400x400q75.avif",
+    "color": ["Red", "Black"],
+    "description": "The Smartphone X6 Pro is an affordable device with a 6.3-inch Super AMOLED display and a Snapdragon 695 processor. It features a 50MP dual-camera setup and a 4000mAh battery with 18W fast charging.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "6.3-inch Super AMOLED Display",
+        "Snapdragon 695 Processor",
+        "50MP Dual Camera Setup",
+        "4000mAh Battery with 18W Fast Charging",
+        "5G Connectivity"
+      ]
+    }
+  },
+  {
+    "title": "Smartphone X7 Pro",
+    "pID": 42,
+    "category": "Cell Phone",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.8",
+    "brand": "TechBrand",
+    "price": "$899.00",
+    "discountPrice": "$849.00",
+    "img": "https://m.media-amazon.com/images/I/61fIAnaw4PL._AC_UY327_FMwebp_QL65_.jpg",
+    "subimage1": "https://img.drz.lazcdn.com/static/bd/p/55d6eca7d4883393cc0d8123caf0e31a.png_400x400q75.avif",
+    "subimage2": "https://m.media-amazon.com/images/I/61fIAnaw4PL._AC_UY327_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/61fIAnaw4PL._AC_UY327_FMwebp_QL65_.jpg",
+    "color": ["Black", "Silver"],
+    "description": "The Smartphone X7 Pro is a high-end device with a 7.0-inch Dynamic AMOLED 2X display and a Snapdragon 8 Gen 3 processor. It features a 200MP penta-camera setup and a 5500mAh battery with 120W fast charging.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "7.0-inch Dynamic AMOLED 2X Display",
+        "Snapdragon 8 Gen 3 Processor",
+        "200MP Penta Camera Setup",
+        "5500mAh Battery with 120W Fast Charging",
+        "5G Connectivity"
+      ]
+    }
+  },
+  {
+    "title": "Smartphone X8 Pro",
+    "pID": 43,
+    "category": "Cell Phone",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.5",
+    "brand": "TechBrand",
+    "price": "$499.00",
+    "discountPrice": "$449.00",
+    "img": "https://m.media-amazon.com/images/I/71otfteaD5L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/713FKa03xDL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/71le-dNR0YL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/71le-dNR0YL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Blue", "White"],
+    "description": "The Smartphone X8 Pro is a mid-range device with a 6.6-inch Super AMOLED display and a Snapdragon 7 Gen 1 processor. It features a 64MP triple-camera setup and a 4500mAh battery with 30W fast charging.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "6.6-inch Super AMOLED Display",
+        "Snapdragon 7 Gen 1 Processor",
+        "64MP Triple Camera Setup",
+        "4500mAh Battery with 30W Fast Charging",
+        "5G Connectivity"
+      ]
+    }
+  },
+  {
+    "title": "Smartphone X9 Pro",
+    "pID": 44,
+    "category": "Cell Phone",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.9",
+    "brand": "TechBrand",
+    "price": "$999.00",
+    "discountPrice": "$949.00",
+    "img": "https://m.media-amazon.com/images/I/61rR8LsBqBL._AC_UY327_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/61rR8LsBqBL._AC_UY327_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/61rR8LsBqBL._AC_UY327_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/61rR8LsBqBL._AC_UY327_FMwebp_QL65_.jpg",
+    "color": ["Black", "Gold"],
+    "description": "The Smartphone X9 Pro is a premium device with a 7.1-inch Dynamic AMOLED 2X display and a Snapdragon 8 Gen 4 processor. It features a 200MP hexa-camera setup and a 6000mAh battery with 150W fast charging.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "7.1-inch Dynamic AMOLED 2X Display",
+        "Snapdragon 8 Gen 4 Processor",
+        "200MP Hexa Camera Setup",
+        "6000mAh Battery with 150W Fast Charging",
+        "5G Connectivity"
+      ]
+    }
+  },
+  {
+    "title": "Smartphone X10 Pro",
+    "pID": 45,
+    "category": "Cell Phone",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.6",
+    "brand": "TechBrand",
+    "price": "$599.00",
+    "discountPrice": "$549.00",
+    "img": "https://m.media-amazon.com/images/I/81qOD8EZTjL._AC_UY327_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/81qOD8EZTjL._AC_UY327_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/81qOD8EZTjL._AC_UY327_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/81qOD8EZTjL._AC_UY327_FMwebp_QL65_.jpg",
+    "color": ["Black", "Silver"],
+    "description": "The Smartphone X10 Pro is a high-performance device with a 6.7-inch Super AMOLED display and a Snapdragon 888 processor. It features a 108MP triple-camera setup and a 5000mAh battery with 65W fast charging.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "6.7-inch Super AMOLED Display",
+        "Snapdragon 888 Processor",
+        "108MP Triple Camera Setup",
+        "5000mAh Battery with 65W Fast Charging",
+        "5G Connectivity"
+      ]
+    }
+  },
+
+  {
+    "title": "Running Shoes X1",
+    "pID": 46,
+    "category": "Footwear",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.8",
+    "brand": "SportBrand",
+    "price": "$120.00",
+    "discountPrice": "$100.00",
+    "img": "https://m.media-amazon.com/images/I/61x0M-uZgsL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/61JksuAyU4L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/61E1VDRNnbL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/61JksuAyU4L._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Black", "White"],
+    "size": [7, 8, 9, 10, 11],
+    "description": "The Running Shoes X1 are designed for ultimate comfort and performance. Featuring a lightweight design and breathable mesh upper, these shoes are perfect for long-distance running. The cushioned midsole provides excellent support and shock absorption.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "Lightweight Design",
+        "Breathable Mesh Upper",
+        "Cushioned Midsole",
+        "Durable Rubber Outsole",
+        "Available in Multiple Colors"
+      ]
+    }
+  },
+  {
+    "title": "Casual Sneakers Y2",
+    "pID": 47,
+    "category": "Footwear",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.5",
+    "brand": "UrbanBrand",
+    "price": "$80.00",
+    "discountPrice": "$70.00",
+    "img": "https://m.media-amazon.com/images/I/71M6qqPU5jL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/71uXHvLhJ1L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/61x0M-uZgsL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/81-WQ6cWRvL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Blue", "Gray"],
+    "size": [6, 7, 8, 9, 10],
+    "description": "The Casual Sneakers Y2 are perfect for everyday wear. With a stylish design and comfortable fit, these sneakers are ideal for casual outings. The rubber outsole provides excellent traction and durability.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "Stylish Design",
+        "Comfortable Fit",
+        "Rubber Outsole",
+        "Lightweight Construction",
+        "Available in Multiple Colors"
+      ]
+    }
+  },
+  {
+    "title": "Hiking Boots Z3",
+    "pID": 48,
+    "category": "Footwear",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.9",
+    "brand": "OutdoorBrand",
+    "price": "$150.00",
+    "discountPrice": "$130.00",
+    "img": "https://m.media-amazon.com/images/I/81YslwkdKBL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/81-MrmUzifL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/813apJPOWOL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/710Ao9Y7jPL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Brown", "Green"],
+    "size": [8, 9, 10, 11, 12],
+    "description": "The Hiking Boots Z3 are built for rugged terrain and long hikes. Featuring a waterproof design and high-traction outsole, these boots provide excellent support and durability in all weather conditions.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "Waterproof Design",
+        "High-Traction Outsole",
+        "Durable Construction",
+        "Ankle Support",
+        "Comfortable Cushioning"
+      ]
+    }
+  },
+  {
+    "title": "Formal Shoes A4",
+    "pID": 49,
+    "category": "Footwear",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.6",
+    "brand": "LuxuryBrand",
+    "price": "$200.00",
+    "discountPrice": "$180.00",
+    "img": "https://m.media-amazon.com/images/I/71iN+KAV8EL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/61o+mhryYvS._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/51WpZbC4dsL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/81MEBgMtc6L._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Black", "Brown"],
+    "size": [7, 8, 9, 10, 11],
+    "description": "The Formal Shoes A4 are perfect for business meetings and formal events. Made with premium leather and a sleek design, these shoes offer both style and comfort.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "Premium Leather",
+        "Sleek Design",
+        "Comfortable Fit",
+        "Durable Construction",
+        "Available in Multiple Colors"
+      ]
+    }
+  },
+  {
+    "title": "Sandals B5",
+    "pID": 50,
+    "category": "Footwear",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.4",
+    "brand": "SummerBrand",
+    "price": "$50.00",
+    "discountPrice": "$40.00",
+    "img": "https://m.media-amazon.com/images/I/61zim4qDNNL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/61sqCrQF+NL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/51xP6-PyI6L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/51xP6-PyI6L._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Black", "Beige"],
+    "size": [6, 7, 8, 9, 10],
+    "description": "The Sandals B5 are perfect for summer outings. With a lightweight design and comfortable straps, these sandals are ideal for beach trips and casual walks.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "Lightweight Design",
+        "Comfortable Straps",
+        "Durable Outsole",
+        "Breathable Material",
+        "Available in Multiple Colors"
+      ]
+    }
+  },
+  {
+    "title": "Athletic Shoes C6",
+    "pID": 51,
+    "category": "Footwear",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.7",
+    "brand": "SportBrand",
+    "price": "$110.00",
+    "discountPrice": "$90.00",
+    "img": "https://m.media-amazon.com/images/I/81DWaOUMNML._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/71oe0zyDgNL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/21DkKiy-tQL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/81DWaOUMNML._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Red", "White"],
+    "size": [7, 8, 9, 10, 11],
+    "description": "The Athletic Shoes C6 are designed for high-performance sports. Featuring a breathable upper and cushioned midsole, these shoes provide excellent support and comfort during intense workouts.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "Breathable Upper",
+        "Cushioned Midsole",
+        "High-Traction Outsole",
+        "Lightweight Design",
+        "Available in Multiple Colors"
+      ]
+    }
+  },
+  {
+    "title": "Winter Boots D7",
+    "pID": 52,
+    "category": "Footwear",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.5",
+    "brand": "WinterBrand",
+    "price": "$180.00",
+    "discountPrice": "$160.00",
+    "img": "https://m.media-amazon.com/images/I/71AtxY2TljL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/71IbKqR4YLL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/71bxwJ1Nv6L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/71onFcaoviL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Black", "Gray"],
+    "size": [8, 9, 10, 11, 12],
+    "description": "The Winter Boots D7 are designed to keep your feet warm and dry in cold weather. Featuring a waterproof design and insulated lining, these boots are perfect for snowy conditions.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "Waterproof Design",
+        "Insulated Lining",
+        "Durable Outsole",
+        "Comfortable Fit",
+        "Available in Multiple Colors"
+      ]
+    }
+  },
+  {
+    "title": "Slip-On Shoes E8",
+    "pID": 53,
+    "category": "Footwear",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.3",
+    "brand": "CasualBrand",
+    "price": "$70.00",
+    "discountPrice": "$60.00",
+    "img": "https://m.media-amazon.com/images/I/810NUBfO2TL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/819x7I3Aw8L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/71wbPlDmeIL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/71wbPlDmeIL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Blue", "Black"],
+    "size": [6, 7, 8, 9, 10],
+    "description": "The Slip-On Shoes E8 are perfect for quick outings. With a convenient slip-on design and comfortable fit, these shoes are ideal for casual wear.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "Slip-On Design",
+        "Comfortable Fit",
+        "Lightweight Construction",
+        "Durable Outsole",
+        "Available in Multiple Colors"
+      ]
+    }
+  },
+  {
+    "title": "Trail Running Shoes F9",
+    "pID": 54,
+    "category": "Footwear",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.8",
+    "brand": "OutdoorBrand",
+    "price": "$140.00",
+    "discountPrice": "$120.00",
+    "img": "https://m.media-amazon.com/images/I/81eErFFq8wS._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/718ipH7kxKL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/616OvxmY08L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/710NAxcEd4L._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["Green", "Black"],
+    "size": [7, 8, 9, 10, 11],
+    "description": "The Trail Running Shoes F9 are designed for off-road running. Featuring a rugged outsole and breathable upper, these shoes provide excellent grip and comfort on uneven terrain.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "Rugged Outsole",
+        "Breathable Upper",
+        "Lightweight Design",
+        "Shock Absorption",
+        "Available in Multiple Colors"
+      ]
+    }
+  },
+  {
+    "title": "Canvas Shoes G10",
+    "pID": 55,
+    "category": "Footwear",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.2",
+    "brand": "CasualBrand",
+    "price": "$60.00",
+    "discountPrice": "$50.00",
+    "img": "https://m.media-amazon.com/images/I/711jdMyv4UL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/81tmEXCIsaL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/71v3g6RlkSL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/71lMtfnEIdL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["White", "Blue"],
+    "size": [6, 7, 8, 9, 10],
+    "description": "The Canvas Shoes G10 are perfect for casual wear. With a simple design and comfortable fit, these shoes are ideal for everyday use.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "Simple Design",
+        "Comfortable Fit",
+        "Durable Canvas Material",
+        "Rubber Outsole",
+        "Available in Multiple Colors"
+      ]
+    }
+  },
+
+  {
+    "title": "T-Shirt Classic Black",
+    "pID": 57,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.8",
+    "brand": "FashionBrand",
+    "price": "$25.00",
+    "discountPrice": "$20.00",
+    "size": ["S", "M", "L", "XL"],
+    "img": "https://m.media-amazon.com/images/I/614rbIVRUJL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://img.drz.lazcdn.com/static/bd/p/ba1855792e9f497f0005191d2fdd23f9.png_400x400q75.avif",
+    "subimage2": "https://img.drz.lazcdn.com/static/bd/p/1906e29013551eb3a384e08dce1f1071.jpg_400x400q75.avif",
+    "subimage3": "https://img.drz.lazcdn.com/static/bd/p/cf4ef6d369df5640bb23dd2043a6c3e2.jpg_400x400q75.avif",
+    "color": ["Black", "White", "Gray"],
+    "description": "The Classic Black T-Shirt is a timeless piece for any wardrobe. Made from 100% cotton, it offers a comfortable fit and is perfect for casual outings or layering.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "100% Cotton",
+        "Comfortable Fit",
+        "Timeless Design",
+        "Machine Washable",
+        "Available in Multiple Sizes"
+      ]
+    }
+  },
+  {
+    "title": "T-Shirt White Striped",
+    "pID": 58,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.5",
+    "brand": "FashionBrand",
+    "price": "$28.00",
+    "discountPrice": "$23.00",
+    "size": ["S", "M", "L", "XL", "XXL"],
+    "img": "https://m.media-amazon.com/images/I/71urazBmQ+L._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/71UlABcF6EL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/71zx5BOUgBL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/71qkA2n82nL._AC_UL480_FMwebp_QL65_.jpg",
+    "color": ["White", "Blue", "Red"],
+    "description": "The White Striped T-Shirt is a stylish addition to your casual wardrobe. Featuring a striped design, it is made from soft and breathable fabric for all-day comfort.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "Soft and Breathable Fabric",
+        "Striped Design",
+        "Comfortable Fit",
+        "Machine Washable",
+        "Available in Multiple Sizes"
+      ]
+    }
+  },
+  {
+    "title": "T-Shirt Graphic Print",
+    "pID": 59,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.9",
+    "brand": "FashionBrand",
+    "price": "$30.00",
+    "discountPrice": "$25.00",
+    "size": ["M", "L", "XL"],
+    "img": "https://m.media-amazon.com/images/I/71oDJ8JVskL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/61400bzFLsL._AC_SX569_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/71mtpqwKH8L._AC_SX679_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/61gB2kdAciL._AC_SX679_.jpg",
+    "color": ["Black", "White", "Yellow"],
+    "description": "The Graphic Print T-Shirt features a unique design that stands out. Made from high-quality cotton, it is perfect for making a fashion statement.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "High-Quality Cotton",
+        "Unique Graphic Print",
+        "Comfortable Fit",
+        "Machine Washable",
+        "Available in Multiple Sizes"
+      ]
+    }
+  },
+  {
+    "title": "T-Shirt V-Neck Blue",
+    "pID": 60,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.6",
+    "brand": "FashionBrand",
+    "price": "$22.00",
+    "discountPrice": "$18.00",
+    "size": ["S", "M", "L", "XL"],
+    "img": "https://m.media-amazon.com/images/I/71P2AXC65iL._AC_SX466_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/71BWHai9hiL._AC_SX466_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/615AwJ3PyAL._AC_SX466_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/613c-vQPhPL._AC_SX466_.jpg",
+    "color": ["Blue", "Navy", "Teal"],
+    "description": "The V-Neck Blue T-Shirt is a versatile piece for any occasion. Its V-neck design adds a touch of sophistication, while the soft fabric ensures comfort.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "Soft Fabric",
+        "V-Neck Design",
+        "Comfortable Fit",
+        "Machine Washable",
+        "Available in Multiple Sizes"
+      ]
+    }
+  },
+  {
+    "title": "T-Shirt Polo Grey",
+    "pID": 61,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.7",
+    "brand": "FashionBrand",
+    "price": "$35.00",
+    "discountPrice": "$30.00",
+    "size": ["S", "M", "L", "XL", "XXL"],
+    "img": "https://m.media-amazon.com/images/I/71aSSLycZ+L._AC_SX569_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/91xrg1NLLzL._AC_SX569_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/81yTH8ulURL._AC_SX569_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/81PJKpdAhxL._AC_SX569_.jpg",
+    "color": ["Gray", "Black", "White"],
+    "description": "The Polo Grey T-Shirt is a classic choice for a smart-casual look. Made from premium cotton, it features a polo collar and a comfortable fit.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "Premium Cotton",
+        "Polo Collar",
+        "Comfortable Fit",
+        "Machine Washable",
+        "Available in Multiple Sizes"
+      ]
+    }
+  },
+  {
+    "title": "T-Shirt Oversized Fit",
+    "pID": 62,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.4",
+    "brand": "FashionBrand",
+    "price": "$27.00",
+    "discountPrice": "$22.00",
+    "size": ["M", "L", "XL", "XXL"],
+    "img": "https://m.media-amazon.com/images/I/51vkffVSHUL._AC_SX569_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/51hp8pLqNGL._AC_SX569_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/61BIZO16ipL._AC_SX569_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/51O+1VbSbOL._AC_SX569_.jpg",
+    "color": ["Black", "Beige", "Olive"],
+    "description": "The Oversized Fit T-Shirt is perfect for a relaxed and trendy look. Made from soft fabric, it offers a loose fit and is ideal for casual wear.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "Soft Fabric",
+        "Oversized Fit",
+        "Trendy Design",
+        "Machine Washable",
+        "Available in Multiple Sizes"
+      ]
+    }
+  },
+  {
+    "title": "T-Shirt Slim Fit",
+    "pID": 63,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.8",
+    "brand": "FashionBrand",
+    "price": "$29.00",
+    "discountPrice": "$24.00",
+    "size": ["S", "M", "L"],
+    "img": "https://m.media-amazon.com/images/I/710o0VupScL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/71p-Sidcu8S._AC_SX569_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/61Nn7FcOqBL._AC_SX569_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/81ItG4mkmHS._AC_SX569_.jpg",
+    "color": ["White", "Black", "Charcoal"],
+    "description": "The Slim Fit T-Shirt is designed for a modern and sleek look. Made from stretchable fabric, it offers a snug fit and is perfect for a stylish appearance.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "Stretchable Fabric",
+        "Slim Fit",
+        "Modern Design",
+        "Machine Washable",
+        "Available in Multiple Sizes"
+      ]
+    }
+  },
+  {
+    "title": "T-Shirt Pocket Design",
+    "pID": 64,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.5",
+    "brand": "FashionBrand",
+    "price": "$26.00",
+    "discountPrice": "$21.00",
+    "size": ["S", "M", "L", "XL"],
+    "img": "https://m.media-amazon.com/images/I/51hmFVUfjKL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/41Up+eL0F8L._AC_SX466_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/51aVqqqUZQL._AC_SX466_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/41rWU+E66VL._AC_SX466_.jpg",
+    "color": ["Blue", "Gray", "Maroon"],
+    "description": "The Pocket Design T-Shirt features a chest pocket for added style. Made from breathable fabric, it is perfect for casual outings.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "Breathable Fabric",
+        "Chest Pocket",
+        "Comfortable Fit",
+        "Machine Washable",
+        "Available in Multiple Sizes"
+      ]
+    }
+  },
+  {
+    "title": "T-Shirt Longline Fit",
+    "pID": 65,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐",
+    "rating": "4.6",
+    "brand": "FashionBrand",
+    "price": "$32.00",
+    "discountPrice": "$27.00",
+    "size": ["M", "L", "XL", "XXL"],
+    "img": "https://m.media-amazon.com/images/I/51jw2-fA6vL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/71nvnTRJS8L._AC_SY550_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/61KSz+DG5WL._AC_SY550_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/71xgv2zn2fL._AC_SY550_.jpg",
+    "color": ["Black", "White", "Olive"],
+    "description": "The Longline Fit T-Shirt is designed for a trendy and elongated look. Made from soft fabric, it is perfect for layering or standalone wear.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "Soft Fabric",
+        "Longline Fit",
+        "Trendy Design",
+        "Machine Washable",
+        "Available in Multiple Sizes"
+      ]
+    }
+  },
+  {
+    "title": "T-Shirt Henley Neck",
+    "pID": 66,
+    "category": "Men's Fashion",
+    "review": "⭐⭐⭐⭐⭐",
+    "rating": "4.7",
+    "brand": "FashionBrand",
+    "price": "$34.00",
+    "discountPrice": "$29.00",
+    "size": ["S", "M", "L", "XL"],
+    "img": "https://m.media-amazon.com/images/I/7157st6GKbL._AC_UL480_FMwebp_QL65_.jpg",
+    "subimage1": "https://m.media-amazon.com/images/I/71Z1ckW5nzL._AC_SY550_.jpg",
+    "subimage2": "https://m.media-amazon.com/images/I/71wuZvU1feL._AC_SY550_.jpg",
+    "subimage3": "https://m.media-amazon.com/images/I/81TaA0yWnUL._AC_SX679_.jpg",
+    "color": ["Gray", "Navy", "Green"],
+    "description": "The Henley Neck T-Shirt features a buttoned placket for a stylish look. Made from premium cotton, it is perfect for casual and semi-formal occasions.",
+    "productDetails": {
+      "title": "Key Features",
+      "features": [
+        "Premium Cotton",
+        "Henley Neck",
+        "Comfortable Fit",
+        "Machine Washable",
+        "Available in Multiple Sizes"
+      ]
+    }
+  }
+]

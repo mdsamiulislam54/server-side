@@ -1,0 +1,77 @@
+[
+    {
+      "cid": "1",
+      "category": "Men's Fashion",
+      "images": "https://m.media-amazon.com/images/I/71F-HnxHPZL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "cid": "2",
+      "category": "Women's Fashion",
+      "images": "https://m.media-amazon.com/images/I/61KMpMCDsKL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "cid": "3",
+      "category": "Kid's Fashion",
+      "images": "https://m.media-amazon.com/images/I/61ROpTCdDjL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "cid": "4",
+      "category": "footwear for men",
+      "images": "https://m.media-amazon.com/images/I/51FCX+Z8X8L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "cid": "5",
+      "category": "footwear for women",
+      "images": "https://m.media-amazon.com/images/I/71kmj+67oXL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "cid": "6",
+      "category": "Watches",
+      "images": "https://m.media-amazon.com/images/I/71NrPRCvFRL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "cid": "7",
+      "category": "Jewellery",
+      "images": "https://m.media-amazon.com/images/I/81YUtidOP5L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "cid": "8",
+      "category": "Bags & Luggage",
+      "images": "https://m.media-amazon.com/images/I/71MmyTEFb3L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "cid": "9",
+      "category": "Sunglasses & Frames",
+      "images": "https://m.media-amazon.com/images/I/81WuD12GS6L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "cid": "10",
+      "category": "Beauty & Grooming",
+      "images": "https://m.media-amazon.com/images/I/81+lexk6vqL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "cid": "11",
+      "category": "Shirt For Women",
+      "images": "https://m.media-amazon.com/images/I/81dkPlLuF1L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "cid": "12",
+      "category": "Sportswear",
+      "images": "https://m.media-amazon.com/images/I/51V4IZYU9nL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+ 
+  
+    {
+      "cid": "13",
+      "category": "Food Groceries",
+      "images": "https://m.media-amazon.com/images/I/81rGP2AryWL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "cid": "14",
+      "category": "headphones for pc",
+      "images": "https://m.media-amazon.com/images/I/61lUzRBFprL._AC_UY327_FMwebp_QL65_.jpg"
+    }
+   
+   
+  ]
+  

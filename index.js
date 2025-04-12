@@ -16,7 +16,7 @@ app.use(express.json());
 // ব্যাকেন্ডে (server.js/app.js)
 app.use(cors({
   origin: ["http://localhost:5173"],
-  methods: ["GET", "POST", "PUT", "DELETE"], // PUT মেথড অ্যালাউ করুন
+  methods: ["GET", "POST", "PUT", "DELETE"], 
   credentials: true
 })); // Call cors as a function 
 

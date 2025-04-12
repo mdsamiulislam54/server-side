@@ -8,7 +8,7 @@ import bcrypt from "bcrypt";
 import ProductSchema from "../model/ProductsSchemaModel.js";
 import ShopSchemaModel from "../model/ShopSchema.js";
 import errorHandler from "../errorhandaler/errorHandalar.js";
-import nodemailer from "nodemailer";
+import nodemailer from 'nodemailer';
 import SSLCommerzPayment from "sslcommerz-lts";
 import OrderModel from "../model/OrderModel.js";
 import blogModel from "../model/blogSchemaModel.js";
